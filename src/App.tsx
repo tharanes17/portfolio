@@ -10,7 +10,7 @@ import Contact from './pages/Contact';
 function App() {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename={process.env.NODE_ENV === 'production' ? '/portfolio' : '/'}>
         <div className="App">
           <Navbar />
           <main>
