@@ -284,7 +284,7 @@ const About = () => {
               viewport={{ once: true }}
               className="card p-6 text-center border border-gray-200 dark:border-dark-700 shadow-lg hover:shadow-xl transition-all duration-300"
             >
-              <div className="text-4xl font-bold text-primary-600 dark:text-primary-400 mb-2">30+</div>
+              <div className="text-4xl font-bold text-primary-600 dark:text-primary-400 mb-2">6+</div>
               <h3 className="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-2">Years Experience</h3>
               <p className="text-gray-600 dark:text-gray-400">
                 Extensive experience in software development and system architecture

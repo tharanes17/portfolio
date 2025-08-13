@@ -50,7 +50,7 @@ const Home = () => {
             
             <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto leading-relaxed">
               I enjoy building scalable and maintainable frameworks and love contributing to impactful products. 
-              With over 30 years of experience in software development, I specialize in creating robust, 
+              With over 6 years of experience in software development, I specialize in creating robust, 
               high-performance solutions that drive business value.
             </p>
             
